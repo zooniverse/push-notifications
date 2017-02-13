@@ -1,0 +1,8 @@
+//DEV Setup
+var pusherSetup = {
+  appId: "XXXXX",
+  key: "XXXXXX",
+  secret: "XXXXXXXxx",
+}
+
+module.exports = pusherSetup;

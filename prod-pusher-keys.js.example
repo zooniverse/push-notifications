@@ -1,0 +1,8 @@
+//PROD setup
+var pusherSetup = {
+  appId: "XXXXXX",
+  key: "XXXXXX",
+  secret: "XXXXXXX",
+}
+
+module.exports = pusherSetup;
